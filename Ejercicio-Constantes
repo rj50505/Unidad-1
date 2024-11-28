@@ -1,0 +1,10 @@
+public class Circulo {
+    public static final double PI = 3.14159; // 
+    public static final double RADIO = 5;    // 
+
+    public static void main(String[] args) {
+        double area = PI * RADIO * RADIO;
+
+        System.out.println("Área del círculo: " + area);
+    }
+}
