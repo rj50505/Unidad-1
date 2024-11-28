@@ -9,5 +9,5 @@ public class Persona {
         System.out.println("Altura: " + altura + " metros");
         System.out.println("Inicial del nombre: " + inicialNombre);
         System.out.println("¿Es mayor de edad? " + esMayorDeEdad);
-    }
+    }    
 }
